@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: coin.sarvatech.osSpringDemo.OsSpringDemoApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.656 s - in coin.sarvatech.osSpringDemo.OsSpringDemoApplicationTests
